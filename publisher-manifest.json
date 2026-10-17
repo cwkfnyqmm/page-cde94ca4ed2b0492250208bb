@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5f292ab3f709213a4e997b2d",
+  "owner": "cwkfnyqmm",
+  "repo": "page-cde94ca4ed2b0492250208bb",
+  "title": "心如雪(The)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cde94ca4ed2b0492250208bb",
+      "a": "心如雪(The)",
+      "b": "",
+      "entity": "心如雪(The)",
+      "brand": "心如雪(The)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7ba1a59a0f0ecb55bc73771ddfca5bbf80c1743f617a9d82b7d93b94aaf39e35",
+      "content": {
+        "keyword1": "心如雪(The)",
+        "keyword2": "",
+        "primary_entity": "心如雪(The)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "心如雪(The)以纯白与高饱和橙相间之姿呈现，结合专栏作者式叙述与纵向时间线架构，为您提供纯粹、深刻的数字化服务审美体验。",
+          "AI_DESCRIPTION": "心如雪(The)以纯白与高饱和橙相间之姿呈现，结合专栏作者式叙述与纵向时间线架构，为您提供纯粹、深刻的数字化服务审美体验。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #ffffff;--text-color: #111111;--accent-color: #ff5500;--accent-light: #fff2ed;--gray-light: #f7f7f7;--border-color: #e5e5e5;--font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-color);font-family: var(--font-family);line-height: 1.7;font-size: 16px}\na {color: inherit;text-decoration: none}\nheader {border-bottom: 1px solid var(--border-color);padding: 2rem 5vw;display: flex;justify-content: space-between;align-items: center}\n.logo {font-weight: 700;font-size: 1.25rem;letter-spacing: -0.05em;color: var(--accent-color)}\nmain {max-width: 1100px;margin: 0 auto;padding: 4rem 5vw 8rem 5vw}\n.hero {margin-bottom: 6rem}\n.hero-tag {display: inline-block;background-color: var(--accent-light);color: var(--accent-color);padding: 0.25rem 0.75rem;font-size: 0.85rem;font-weight: 600;margin-bottom: 1.5rem;border-radius: 4px}\nh1 {font-size: clamp(2.5rem, 5vw, 4.5rem);font-weight: 800;line-height: 1.1;letter-spacing: -0.03em;margin-bottom: 1.5rem}\n.hero-desc {font-size: 1.25rem;color: #555555;max-width: 700px;margin-bottom: 3rem}\n.timeline-section {margin-bottom: 6rem}\n.section-title {font-size: 1.75rem;font-weight: 700;margin-bottom: 2rem;letter-spacing: -0.02em}\n.timeline {position: relative;padding-left: 2rem;border-left: 2px solid var(--border-color)}\n.timeline-item {position: relative;margin-bottom: 3rem}\n.timeline-item::before {content: '';position: absolute;left: -2rem-5px;top: 0.5rem;width: 10px;height: 10px;background-color: var(--accent-color);border-radius: 50%;transform: translateX(-5px)}\n.timeline-year {font-size: 0.85rem;font-weight: 600;color: var(--accent-color);margin-bottom: 0.5rem}\n.timeline-content h3 {font-size: 1.25rem;font-weight: 700;margin-bottom: 0.5rem}\n.timeline-content p {color: #666}\n.plans-section {margin-bottom: 6rem}\n.table-wrapper {overflow-x: auto}\ntable {width: 100%;border-collapse: collapse;text-align: left;margin-top: 1rem}\nth, td {padding: 1.25rem;border-bottom: 1px solid var(--border-color)}\nth {font-weight: 700;background-color: var(--gray-light)}\ntd strong {color: var(--accent-color)}\n.highlight-col {background-color: var(--accent-light)}\n.card-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem;margin-bottom: 6rem}\n.card {background-color: var(--bg-color);border: 1px solid var(--border-color);border-left: 4px solid var(--accent-color);padding: 2rem;border-radius: 4px}\n.card h3 {font-size: 1.25rem;font-weight: 700;margin-bottom: 1rem}\n.card p {color: #555;font-size: 0.95rem}\n.faq-section {margin-bottom: 4rem}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 3rem}\n@media (max-width: 768px) {\n  .faq-grid {grid-template-columns: 1fr;gap: 1.5rem}\n}\n.faq-item h3 {font-size: 1.1rem;font-weight: 700;margin-bottom: 0.5rem;color: var(--text-color)}\n.faq-item p {color: #555;font-size: 0.95rem}\nfooter-nav {position: fixed;bottom: 0;left: 0;right: 0;background-color: var(--bg-color);border-top: 1px solid var(--border-color);padding: 1rem 5vw;display: flex;justify-content: center;gap: 2rem;z-index: 100;font-size: 0.9rem;font-weight: 600}\nfooter-nav a:hover {color: var(--accent-color)}\n.spacer {height: 3rem}\n</style><header>\n  <div class=\"logo\">心如雪 (The)</div>\n  <div>数字叙事与精工网络</div>\n</header>\n\n<main>\n  \n  <section class=\"hero\">\n    <div class=\"hero-tag\">专栏特辑 01</div>\n    <h1>心如雪(The) · 心如雪：在混沌的数字荒原中，重塑清晰透彻的连接美学。</h1>\n    <p class=\"hero-desc\">我们拒绝喧嚣的营销噪点。通过纵向时间线的沉淀与高饱和色彩的理性解构，心如雪为您提供兼具诗意表达与严谨逻辑的高性能数字连接方案。</p>\n  </section>\n\n  \n  <section class=\"timeline-section\">\n    <h2 class=\"section-title\">演进脉络</h2>\n    <div class=\"timeline\">\n      <div class=\"timeline-item\">\n        <div class=\"timeline-year\">相遇·初章</div>\n        <div class=\"timeline-content\">\n          <h3>纯白基调的诞生</h3>\n          <p>从最初的灵感闪现到架构落地，心如雪始终坚持去除冗余，回归信息传输本身的纯粹与高效。</p>\n        </div>\n      </div>\n      <div class=\"timeline-item\">\n        <div class=\"timeline-year\">淬炼·中篇</div>\n        <div class=\"timeline-content\">\n          <h3>高饱和橙色警觉</h3>\n          <p>在稳定的底层协议之上，我们注入精准的视觉张力与人性化交互，使每一次交互都清晰可辨。</p>\n        </div>\n      </div>\n      <div class=\"timeline-item\">\n        <div class=\"timeline-year\">远眺·终章</div>\n        <div class=\"timeline-content\">\n          <h3>无界的未来视界</h3>\n          <p>跨越物理阻隔，心如雪持续拓展全球节点池与专线优化，为每一位追求品质的同行者保驾护航。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  \n  <div class=\"card-grid\">\n    <div class=\"card\">\n      <h3>专栏作者视角</h3>\n      <p>我们以深度文章与克制文笔，剖析网络架构背后的技术哲学，让您不仅知其然，更知其所以然。</p>\n    </div>\n    <div class=\"card\">\n      <h3>极致流动体验</h3>\n      <p>精选优质线路与智能路由分流，确保全天候的高带宽与低延迟，让流畅成为理所当然的常态。</p>\n    </div>\n    <div class=\"card\">\n      <h3>全场景多端适配</h3>\n      <p>无论桌面端还是移动终端，心如雪均提供原生且直观的客户端支持，一键融入您的日常工作流。</p>\n    </div>\n  </div>\n\n  \n  <section class=\"plans-section\">\n    <h2 class=\"section-title\">服务方案对照</h2>\n    <p>横向对比各项权益，寻找最契合您当前数字生活节奏的方案。</p>\n    <div class=\"table-wrapper\">\n      <table>\n        <thead>\n          <tr>\n            <th>方案类型</th>\n            <th>基础版</th>\n            <th class=\"highlight-col\">旗舰版 (推荐)</th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td><strong>定价</strong></td>\n            <td>¥15/月<br><span>按年付 ¥150/年</span></td>\n            <td class=\"highlight-col\"><strong>¥35/月</strong><br><span>按年付 ¥350/年</span></td>\n            <td>¥85/月<br><span>按年付 ¥850/年</span></td>\n          </tr>\n          <tr>\n            <td><strong>每月流量</strong></td>\n            <td>100GB 极速流量</td>\n            <td class=\"highlight-col\">300GB 极速流量</td>\n            <td>1000GB 极速流量</td>\n          </tr>\n          <tr>\n            <td><strong>设备并发</strong></td>\n            <td>支持 3 台设备</td>\n            <td class=\"highlight-col\">支持 5 台设备</td>\n            <td>支持 20 台设备</td>\n          </tr>\n          <tr>\n            <td><strong>流媒体解锁</strong></td>\n            <td>解锁基础流媒体</td>\n            <td class=\"highlight-col\">全节点原生解锁</td>\n            <td>VIP 专属高带宽节点</td>\n          </tr>\n          <tr>\n            <td><strong>特色优化</strong></td>\n            <td>普通线路节点池</td>\n            <td class=\"highlight-col\">IPLC 专线游戏加速</td>\n            <td>支持企业定制路由</td>\n          </tr>\n          <tr>\n            <td><strong>售后支持</strong></td>\n            <td>常规工单支持</td>\n            <td class=\"highlight-col\">7x24 优先工单支持</td>\n            <td>专属客户经理服务</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  \n  <section class=\"faq-section\">\n    <h2 class=\"section-title\">常见疑问解答</h2>\n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <h3>心如雪的核心设计理念是什么？</h3>\n        <p>我们主张“纯白无瑕，橙意点睛”。在视觉上追求极简与留白，在技术上追求稳定与高效，为您呈现独树一帜的数字服务美学。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>如何开始使用心如雪的服务？</h3>\n        <p>选择适合您的套餐并完成配置后，您将获得专属的订阅链接。将其导入兼容的客户端中即可一键开启流畅的全球网络连接。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>支持哪些主流客户端与设备？</h3>\n        <p>心如雪全面兼容主流操作系统的常见客户端。您可以在各类现代设备上无缝切换，享受一致的高品质连接体验。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>套餐到期后流量如何结算？</h3>\n        <p>每月流量会根据您的账单周期自动重置。若您在周期内流量耗尽，可通过升级方案或购买叠加包来补充额度。</p>\n      </div>\n    </div>\n  </section>\n\n  <div class=\"spacer\"></div>\n</main>\n\n\n\n  <a href=\"#\">首屏纪要</a>\n  <a href=\"#\">演进脉络</a>\n  <a href=\"#\">服务方案</a>\n  <a href=\"#\">常见问答</a>\n",
+          "hash": "4a82634b1da86e1b54c9e3e85a0f69ab616ab20776720efbcf3622c36b30cc6f",
+          "seo": {
+            "title": "心如雪(The) - 纯白高饱和橙美学与专栏式数字化服务",
+            "keywords": "心如雪, The, 专栏叙事, 高性能网络架构, 静态HTML模板",
+            "description": "心如雪(The)以纯白与高饱和橙相间之姿呈现，结合专栏作者式叙述与纵向时间线架构，为您提供纯粹、深刻的数字化服务审美体验。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "7005",
+            "hero": "6 纵向时间线引入",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wffansai.cn",
+    "host": "p-26330c1666.wffansai.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "141ea785023f0adfc8b3d7028ce264d102ccba4de0f081dea1b21fa205cd89aa",
+    "sitemap.xml": "e423eef61f690e969517d69404230d33cf99b4efad50ed09060e992d3cdc5bec",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a59bff7f5b1cd6951f16917dc9329e097f2327b5a6a30f91564f36bb29c26a50",
+    "robots.txt": "4eed28db4555276f936e27219ddd92a9b40003d60dd6c99c5b5e34cfd1d8caeb",
+    "c8116493d1f0b3cf5f3c2bc816490f72.txt": "c049498b9104f85b8a1616d4eb3fb6e23fa92154d8cfb8535b96889b7dd49f03"
+  },
+  "revision": "c928ba5082260717b378d26ce7b20224772623883a1c1f542c998a68e9487fe3"
+}
